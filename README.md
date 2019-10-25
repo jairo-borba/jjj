@@ -1,0 +1,2 @@
+# jjj
+Batch applications helper
